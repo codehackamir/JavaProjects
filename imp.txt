@@ -1,0 +1,16 @@
+// order of operations (P-E-M-D-A-S)
+P- paranthesis
+E- expoential
+M-Multiplication
+D-Division
+A-Addition
+S-subtraction
+
+
+// while using printf 
+%s - string
+%c - char
+%d - int 
+%f - double 
+%b - boolean 
+
